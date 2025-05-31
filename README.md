@@ -33,24 +33,24 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThanaritKanjanametawatAU&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanaritKanjanametawatAU&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&text_color=ffffff" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ThanaritKanjanametawat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&count_private=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanaritKanjanametawat&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=00d9ff&text_color=ffffff" alt="Top Languages" height="180" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanaritKanjanametawatAU&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ThanaritKanjanametawat&theme=tokyonight&hide_border=true&background=1a1b27&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" alt="GitHub Streak" />
 </div>
 
 ### 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThanaritKanjanametawatAU&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThanaritKanjanametawat&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=00d9ff&line=00d9ff&point=ffffff" width="100%" />
 </div>
 
 ### 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ThanaritKanjanametawatAU&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ThanaritKanjanametawat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" width="100%" />
 </div>
 
 ### 💼 Professional Journey
@@ -93,7 +93,7 @@
   
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanarit.bonus@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanarit-kanjanametawat/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThanaritKanjanametawatAU)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThanaritKanjanametawat)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://thanarit.vercel.app/)
 
 </div>
@@ -102,16 +102,16 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThanaritKanjanametawatAU/ThanaritKanjanametawatAU/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThanaritKanjanametawatAU/ThanaritKanjanametawatAU/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThanaritKanjanametawatAU/ThanaritKanjanametawatAU/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThanaritKanjanametawat/ThanaritKanjanametawat/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThanaritKanjanametawat/ThanaritKanjanametawat/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ThanaritKanjanametawat/ThanaritKanjanametawat/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThanaritKanjanametawatAU&label=Profile%20views&color=00d9ff&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ThanaritKanjanametawat&label=Profile%20views&color=00d9ff&style=flat" alt="Profile views" />
   
   <br/><br/>
   
